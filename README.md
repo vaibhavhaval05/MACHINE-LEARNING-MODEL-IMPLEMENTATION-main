@@ -10,7 +10,7 @@ Duration: 4 Weeks
 
 Internship Period: 07 January 2026 - 4 February 2026
 
-Intern ID: CTIS 1467
+Intern ID:CTIS1467
 
 ## 📧 Spam Email Detection using Scikit-learn
 
